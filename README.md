@@ -11,7 +11,7 @@
 <p align="center">
   <a href="https://github.com/monjjj/Epick-Download/releases/latest"><strong>최신 버전 다운로드</strong></a>
   &nbsp;·&nbsp;
-  <a href="https://github.com/monjjj/Epick-Download/releases/download/v0.1.7/Epick-0.1.7-Setup-windows-x64.exe">0.1.7 설치 파일</a>
+  <a href="https://github.com/monjjj/Epick-Download/releases/download/v0.1.8/Epick-0.1.8-Setup-windows-x64.exe">0.1.8 설치 파일</a>
   &nbsp;·&nbsp;
   <a href="https://discord.gg/hcAaSPapSU">Discord</a>
 </p>
@@ -80,7 +80,7 @@
 
 | 게임 클라이언트 설정 | 사용 환경 |
 | --- | --- |
-| PC(STOVE) | 에픽세븐 공식 PC 클라이언트 |
+| PC(STOVE & Steam) | STOVE 또는 Steam으로 실행한 에픽세븐 |
 | 구글 플레이 게임즈 | Google Play Games로 실행한 에픽세븐 |
 | 무무플레이어 | 무무에서 실행한 에픽세븐 |
 | 커스텀 영역 선택 | 사용자가 직접 게임 창과 인식할 영역을 지정 |
@@ -89,8 +89,8 @@
 
 ## 업데이트와 기록
 
-- 현재 배포 버전은 **0.1.7**입니다. 일편고월 벨로나 스킨 인식과 공개 배포 저장소의 업데이트 주소가 포함되어 있습니다.
-- **기존0.1.6 사용자는 이번0.1.7 설치 파일을 직접 받아 설치해주세요.** 0.1.7부터 앱의 업데이트 확인은 이 저장소를 사용합니다.
+- 현재 배포 버전은 **0.1.8**입니다. 설정에서 STOVE와 Steam을 같은 PC 클라이언트 항목으로 선택할 수 있으며, 디스코드 문의 주소를 갱신했습니다.
+- **기존0.1.6 사용자는 최신 설치 파일을 직접 받아 설치해주세요.** 0.1.7부터 앱의 업데이트 확인은 이 저장소를 사용합니다.
 - 새 설치 화면의 기본 폴더는 `Epick`입니다. 기존 전적과 설정은 업데이트하거나 앱을 제거해도 자동으로 지우지 않습니다.
 - 릴리즈의 `.exe.sha256`은 파일 검증용, `update-epick.json`은 앱 업데이트용입니다. 설치할 때는 **`Setup-windows-x64.exe` 파일**을 받으세요.
 
