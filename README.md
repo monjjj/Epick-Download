@@ -15,7 +15,7 @@
 <p align="center">
   <a href="https://github.com/monjjj/Epick-Download/releases/latest"><strong>최신 버전 다운로드</strong></a>
   &nbsp;·&nbsp;
-  <a href="https://github.com/monjjj/Epick-Download/releases/download/v0.1.8/Epick-0.1.8-Setup-windows-x64.exe">0.1.8 설치 파일</a>
+  <a href="https://github.com/monjjj/Epick-Download/releases/download/v0.1.9/Epick-0.1.9-Setup-windows-x64.exe">0.1.9 설치 파일</a>
   &nbsp;·&nbsp;
   <a href="https://discord.gg/hcAaSPapSU">Discord</a>
 </p>
@@ -95,7 +95,7 @@
 
 ## 업데이트와 기록
 
-- 현재 배포 버전은 **0.1.8**입니다. 설정에서 STOVE와 Steam을 같은 PC 클라이언트 항목으로 선택할 수 있으며, 디스코드 문의 주소를 갱신했습니다.
+- 현재 배포 버전은 **0.1.9**입니다. 앱 실행 직후 새 버전을 확인하고 대시보드보다 먼저 업데이트 여부를 묻습니다. 아니요를 누르면 현재 버전을 실행하며, 실행 중에도5분마다 새 버전을 확인합니다.
 - **기존0.1.6 사용자는 최신 설치 파일을 직접 받아 설치해주세요.** 0.1.7부터 앱의 업데이트 확인은 이 저장소를 사용합니다.
 - 새 설치 화면의 기본 폴더는 `Epick`입니다. 기존 전적과 설정은 업데이트하거나 앱을 제거해도 자동으로 지우지 않습니다.
 - 릴리즈의 `.exe.sha256`은 파일 검증용, `update-epick.json`은 앱 업데이트용입니다. 설치할 때는 **`Setup-windows-x64.exe` 파일**을 받으세요.

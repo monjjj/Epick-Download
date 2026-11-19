@@ -15,7 +15,7 @@
 <p align="center">
   <a href="https://github.com/monjjj/Epick-Download/releases/latest"><strong>Download the latest release</strong></a>
   &nbsp;·&nbsp;
-  <a href="https://github.com/monjjj/Epick-Download/releases/download/v0.1.8/Epick-0.1.8-Setup-windows-x64.exe">0.1.8 installer</a>
+  <a href="https://github.com/monjjj/Epick-Download/releases/download/v0.1.9/Epick-0.1.9-Setup-windows-x64.exe">0.1.9 installer</a>
   &nbsp;·&nbsp;
   <a href="https://discord.gg/hcAaSPapSU">Discord</a>
 </p>
@@ -95,7 +95,7 @@ Keep the game window unobstructed when using MuMuPlayer or a custom game area. L
 
 ## Updates and saved records
 
-- The current release is **0.1.8**, with STOVE and Steam sharing the PC client option and an updated Discord invite.
+- The current release is **0.1.9**. Epick checks for updates on launch and asks before opening the dashboard. Choose No to open the current version. It also checks for new releases every five minutes while running.
 - **If you use 0.1.6, download and install the latest installer directly.** Versions 0.1.7 and later check this repository for updates.
 - New installations use `Epick` as the default installation folder. Updating or uninstalling the app does not automatically delete your match records or settings.
 - The release's `.exe.sha256` file is for file verification, and `update-epick.json` is used by the app updater. To install Epick, download the **`Setup-windows-x64.exe` file**.
