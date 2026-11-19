@@ -5,6 +5,10 @@
 <h1 align="center">Epick</h1>
 
 <p align="center">
+  <strong>한국어</strong> · <a href="README.en.md">English</a>
+</p>
+
+<p align="center">
   <strong>에픽세븐 월드 아레나를 위한 Windows 보조 앱</strong><br>
 </p>
 
@@ -32,7 +36,7 @@
 
 ## 화면 미리보기
 
-아래는 **Epick 0.1.7의 실제 앱 UI를 캡처한 화면**입니다. 전적과 승률은 기능 소개를 위한 예시 데이터입니다.
+대시보드·통계·설정·스킬 설명은 **Epick 0.1.7의 실제 앱 UI를 캡처한 화면**입니다. 전적과 승률은 기능 소개를 위한 예시 데이터이며, 밴픽창 시연은 사용자가 제공한 게임 화면입니다.
 
 <table>
   <tr>
@@ -43,7 +47,9 @@
     </td>
     <td valign="top" width="52%">
       <h3>아이콘을 눌러 스킬 확인</h3>
-      <p>S1·S2·S3을 선택해 스킬 설명을 읽습니다.</p>
+      <p>밴픽창에서 상대 영웅 옆에 표시되는 S1·S2·S3 아이콘을 누르면 스킬 설명을 확인할 수 있습니다.</p>
+      <img src="assets/draft-skill-icons.png" alt="에픽세븐 밴픽창에서 상대 영웅 옆에 표시되는 Epick의 S1·S2·S3 스킬 아이콘" width="400">
+      <p><sub>밴픽창에서 바로 스킬 아이콘을 선택합니다.</sub></p>
       <img src="assets/skill-details-dark.png" alt="바니걸 마피아 유피네의 스킬 아이콘 3개와 신고식 설명" width="400">
       <p><sub>예시 영웅: 바니걸 마피아 유피네</sub></p>
     </td>
