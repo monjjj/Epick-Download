@@ -1,3 +1,15 @@
+## Installation
+
+1. Download `Epick-{version}-Setup-windows-x64.exe` from the [latest release](https://github.com/monjjj/Epick-Download/releases/latest).
+2. Run the installer, then launch Epick.
+3. Open the **gear icon → Game client** at the top right and select your setup.
+4. Open the **World Arena draft screen** in Epic Seven. Preparing hero data may take a little time on the first launch.
+5. Check detected picks and skill information. After a match, review your records on the dashboard and in match analysis.
+
+For a custom game area, follow **Select window → Preview → Adjust margins → Use this area**.
+
+---
+
 <p align="center">
   <img src="assets/epick-icon.png" alt="Epick icon" width="80">
 </p>
@@ -36,7 +48,7 @@ If you downloaded the installer from this repository's [official releases](https
 
 ## Screenshots
 
-The dashboard, statistics, settings, and skill description screenshots show the actual **Epick 0.1.7 UI**. Match records and win rates are sample data for demonstration. The draft screenshot was provided by the user from their game.
+The dashboard, statistics, settings, and skill description screenshots show the actual **Epick 0.1.7 UI**. Match records and win rates are sample data for demonstration. The draft GIF was recorded and provided by the user from their game.
 
 <table>
   <tr>
@@ -47,9 +59,9 @@ The dashboard, statistics, settings, and skill description screenshots show the 
     </td>
     <td valign="top" width="52%">
       <h3>Click an icon to check a skill</h3>
-      <p>During the draft, click S1, S2, or S3 beside an opponent's hero to view its skill description.</p>
-      <img src="assets/draft-skill-icons.png" alt="Epick S1, S2 and S3 skill icons beside opposing heroes in the Epic Seven draft screen" width="400">
-      <p><sub>Select skill icons directly from the draft screen.</sub></p>
+      <p>Skill icons appear once a hero is picked. Click S1, S2, or S3 beside an opponent's hero to view its skill description.</p>
+      <img src="assets/draft-skill-demo.gif" alt="Epick S1, S2 and S3 skill icons beside opposing heroes in the Epic Seven draft screen" width="400">
+      <p><sub>Live demonstration of skill icons appearing after a hero is picked.</sub></p>
       <img src="assets/skill-details-dark.png" alt="Epick skill details window with three skill icons and a Korean skill description" width="400">
       <p><sub>Skill descriptions are currently provided in Korean. The app interface supports Korean and English.</sub></p>
     </td>
@@ -69,16 +81,6 @@ Hero statistics use the **four heroes that participated after the final ban**. A
 Select the client you use to play. Epick remembers your client and appearance settings the next time it starts.
 
 <img src="assets/settings-dark.png" alt="Epick settings for game client, Korean/English, and dark/light themes" width="560">
-
-## Getting started
-
-1. Download `Epick-{version}-Setup-windows-x64.exe` from the [latest release](https://github.com/monjjj/Epick-Download/releases/latest).
-2. Run the installer, then launch Epick.
-3. Open the **gear icon → Game client** at the top right and select your setup.
-4. Open the **World Arena draft screen** in Epic Seven. Preparing hero data may take a little time on the first launch.
-5. Check detected picks and skill information. After a match, review your records on the dashboard and in match analysis.
-
-For a custom game area, follow **Select window → Preview → Adjust margins → Use this area**.
 
 ## System requirements
 
